@@ -1,2 +1,4 @@
 https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 https://aijobs.net/
+
+Data in columns relating to job experience and type needed the alias to be changed to full name vs abbreviation

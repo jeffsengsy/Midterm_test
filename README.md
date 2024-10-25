@@ -7,3 +7,5 @@ Columns: work_year, experience_level, employment_type, job_title, salary, salary
 Data contains 12 fields and 607 rows
 
 Summary: Comparing job types and salaries based on location, job title, and experience. Depending on the employment, some roles earn more as free lancer than full-time. The US also has the most positions in the industry but can also be due to the available data to work with. 
+
+Tableau public dashboard: https://public.tableau.com/app/profile/jeffery.sengsy/viz/DataScienceSalaries_17298741865330/MainStory?publish=yes
